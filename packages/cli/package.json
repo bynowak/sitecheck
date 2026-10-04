@@ -1,0 +1,21 @@
+{
+  "name": "sitecheck",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Know what ships. Transparent website audits from your terminal.",
+  "license": "MIT",
+  "bin": {
+    "sitecheck": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@sitecheck/engine": "workspace:*",
+    "commander": "^14.0.2"
+  }
+}
