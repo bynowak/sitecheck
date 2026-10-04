@@ -1,0 +1,26 @@
+{
+  "name": "@sitecheck/engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Transparent, security-conscious website audits",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "ipaddr.js": "^2.3.0",
+    "playwright": "^1.57.0",
+    "zod": "^4.1.0"
+  }
+}
