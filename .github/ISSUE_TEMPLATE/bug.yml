@@ -1,0 +1,22 @@
+name: Bug report
+description: Report reproducible audit or interface behavior
+body:
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Include a public URL or HTML fixture without secrets.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Sitecheck version and Node version
+    validations:
+      required: true
