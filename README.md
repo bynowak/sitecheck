@@ -3,6 +3,7 @@
 **Know what ships.** A transparent website auditor for developers: actionable SEO, accessibility, technical, and content findings from a public URL.
 
 [![MIT](https://img.shields.io/badge/license-MIT-176b47)](LICENSE)
+[![CI](https://github.com/bynowak/sitecheck/actions/workflows/ci.yml/badge.svg)](https://github.com/bynowak/sitecheck/actions/workflows/ci.yml)
 
 Sitecheck inspects one page and a bounded sample of its links. Every rule includes evidence, an explanation, and a concrete recommendation. Use the terminal, consume the typed engine, or run the optional Next.js dashboard.
 

@@ -1,5 +1,11 @@
 name: Release
 on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Release tag (for example v1.0.0)
+        required: true
+        default: v1.0.0
   push:
     tags: ['v*']
 permissions:
@@ -7,6 +13,8 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
+    env:
+      RELEASE_TAG: ${{ inputs.version || github.ref_name }}
     steps:
       - uses: actions/checkout@v4
       - uses: pnpm/action-setup@v4
@@ -22,6 +30,8 @@ jobs:
       - run: pnpm test
       - run: pnpm build
       - run: mkdir artifacts && pnpm --dir packages/engine pack --pack-destination ../../artifacts && pnpm --dir packages/cli pack --pack-destination ../../artifacts
-      - run: gh release create "$GITHUB_REF_NAME" artifacts/*.tgz --title "Sitecheck $GITHUB_REF_NAME" --notes-file CHANGELOG.md
+      - name: Validate release tag
+        run: '[[ "$RELEASE_TAG" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]]'
+      - run: gh release create "$RELEASE_TAG" artifacts/*.tgz --target "$GITHUB_SHA" --title "Sitecheck $RELEASE_TAG" --notes-file CHANGELOG.md
         env:
           GH_TOKEN: ${{ github.token }}
