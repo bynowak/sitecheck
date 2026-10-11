@@ -17,7 +17,7 @@
     "sitecheck": "node packages/cli/dist/index.js"
   },
   "devDependencies": {
-    "typescript": "^5.9.3",
+    "typescript": "^6.0.3",
     "@types/node": "^22.19.0",
     "eslint": "^9.39.0",
     "@eslint/js": "^9.39.0",
