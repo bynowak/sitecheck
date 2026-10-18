@@ -9,11 +9,13 @@ Sitecheck inspects one page and a bounded sample of its links. Every rule includ
 
 ## Start here
 
+**Free copy samples:** [A homepage starting point and five social posts](docs/guides/freelance-copy-sampler.md).
+
 **Free resource:** [The 10-minute landing page clarity check](docs/guides/clear-copy-checklist.md) - a practical worksheet for founders. [Download the printable PDF](docs/guides/ByNowak_10-Minute_Clarity_Check.pdf). No email required.
 
 Sitecheck covers automated technical checks. The worksheet covers the manual messaging questions an automated score cannot answer.
 
-**Need copy feedback?** ByNowak's existing [Mini Audit ($120)](https://bynowak.com/services?utm_source=github&utm_medium=referral&utm_campaign=sitecheck_readme&utm_content=mini_audit) reviews one page and five social posts with rewritten examples and practical recommendations. English and Polish. [Ask about the audit](mailto:business@bynowak.com?subject=Mini%20Audit%20enquiry).
+**Need copy feedback?** ByNowak's existing [Mini Audit ($120)](https://buy.stripe.com/dRm8wPcLo6HT9pKh1c5gc00?client_reference_id=github_sitecheck_readme) reviews one page and five social posts with rewritten examples and practical recommendations. English and Polish. [Ask about the audit](mailto:business@bynowak.com?subject=Mini%20Audit%20enquiry).
 
 ## Screenshot
 
