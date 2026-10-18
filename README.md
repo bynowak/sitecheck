@@ -11,6 +11,8 @@ Sitecheck inspects one page and a bounded sample of its links. Every rule includ
 
 **Free copy samples:** [A homepage starting point and five social posts](docs/guides/freelance-copy-sampler.md).
 
+**Editable copy kits:** [Website copy ($19), 30-day content ($15), or both ($29)](docs/guides/freelance-copy-sampler.md#get-the-editable-kits). One-time purchases with ZIP delivery by email within 24 hours of confirmed payment. The samples above are free.
+
 **Free resource:** [The 10-minute landing page clarity check](docs/guides/clear-copy-checklist.md) - a practical worksheet for founders. [Download the printable PDF](docs/guides/ByNowak_10-Minute_Clarity_Check.pdf). No email required.
 
 Sitecheck covers automated technical checks. The worksheet covers the manual messaging questions an automated score cannot answer.
