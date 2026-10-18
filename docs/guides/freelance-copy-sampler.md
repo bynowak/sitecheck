@@ -68,8 +68,16 @@ Action: save these labels for your next review.
 
 Questions before purchasing? [Email ByNowak](mailto:business@bynowak.com?subject=Copy%20service%20question).
 
-## About the full kits
+## Get the editable kits
 
-The two full kits contain editable Word and Markdown files, PDF reading copies, quick-start instructions and usage terms. This public page is a sampler. A paid instant-download checkout for the full kits has not been launched.
+The free samples above show the writing style before you buy. Full kits are one-time purchases in USD. Each ZIP contains editable Word and Markdown files, a PDF reading copy, instructions and usage terms. Your ZIP is emailed to your checkout address within 24 hours of confirmed payment; this is email delivery, not an instant download. Delivery comes from ByNowak / Mateusz Nowak. Reply to your delivery email for file support.
+
+**Freelance Website Copy Kit — $19.** Three complete homepage templates for a web designer, developer and product designer, plus service and FAQ copy, four inquiry email templates and a publishing check. [Get the Website Copy Kit through Stripe](https://buy.stripe.com/fZu9ATbHk6HT6dyfX85gc02?client_reference_id=github_sampler_website).
+
+**30 Days of Content for Freelance Web Designers — $15.** Thirty adaptable captions, each with a written visual direction and action, plus ten short video scripts and a suggested publishing sequence. Graphics and videos are not included. [Get the Content Kit through Stripe](https://buy.stripe.com/28E28r26Kd6h8lG4eq5gc03?client_reference_id=github_sampler_content).
+
+**Freelance Launch Copy Bundle — $29.** Both complete kits, with the same content and terms. [Get both kits through Stripe](https://buy.stripe.com/6oU3cveTw7LX59u3am5gc04?client_reference_id=github_sampler_bundle).
+
+Use only the templates that fit what you actually provide. Replace brackets with real details. No individual feedback, design, implementation or publishing is included, and no sales result is promised. The included terms allow adapting the copy for your own business or client deliverables; resale of the kit as a competing template product is not permitted.
 
 ByNowak / Mateusz Nowak. October 2026. Original educational templates. No conversion result is claimed.
