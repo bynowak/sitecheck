@@ -163,4 +163,3 @@ Small, tested changes are welcome. Open a focused issue, explain expected behavi
 ## Releases and license
 
 See [CHANGELOG.md](CHANGELOG.md) and [docs/RELEASING.md](docs/RELEASING.md). MIT licensed; see [LICENSE](LICENSE). Sitecheck sends no audit telemetry and stores no reports. Next.js has its own build telemetry; set `NEXT_TELEMETRY_DISABLED=1` to disable it (included in the example environment).
-
