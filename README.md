@@ -7,6 +7,14 @@
 
 Sitecheck inspects one page and a bounded sample of its links. Every rule includes evidence, an explanation, and a concrete recommendation. Use the terminal, consume the typed engine, or run the optional Next.js dashboard.
 
+## Start here
+
+**Free resource:** [The 10-minute landing page clarity check](docs/guides/clear-copy-checklist.md) - a practical worksheet for founders. [Download the printable PDF](docs/guides/ByNowak_10-Minute_Clarity_Check.pdf). No email required.
+
+Sitecheck covers automated technical checks. The worksheet covers the manual messaging questions an automated score cannot answer.
+
+**Need copy feedback?** ByNowak's existing [Mini Audit ($120)](https://bynowak.com/services?utm_source=github&utm_medium=referral&utm_campaign=sitecheck_readme&utm_content=mini_audit) reviews one page and five social posts with rewritten examples and practical recommendations. English and Polish. [Ask about the audit](mailto:business@bynowak.com?subject=Mini%20Audit%20enquiry).
+
 ## Screenshot
 
 <!-- Screenshot placeholder: replace with a current dashboard capture after UI changes. -->
@@ -153,3 +161,4 @@ Small, tested changes are welcome. Open a focused issue, explain expected behavi
 ## Releases and license
 
 See [CHANGELOG.md](CHANGELOG.md) and [docs/RELEASING.md](docs/RELEASING.md). MIT licensed; see [LICENSE](LICENSE). Sitecheck sends no audit telemetry and stores no reports. Next.js has its own build telemetry; set `NEXT_TELEMETRY_DISABLED=1` to disable it (included in the example environment).
+
