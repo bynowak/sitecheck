@@ -57,13 +57,13 @@ Stop before submitting payment. Record checkout completion separately only when 
 
 ## Keep a small measurement log
 
-| Step | What to record | What it answers |
-| --- | --- | --- |
-| Discovery | Impressions by channel | Did people see it? |
-| Visit | Outbound clicks and landing visits | Did they come to the page? |
-| Intent | Qualified inquiries or checkout starts | Did the offer interest them? |
-| Sale | Confirmed paid orders and net receipts | Did they buy? |
-| Repeat | Repeat purchases or returning customers | Is income becoming sustainable? |
+| Step      | What to record                          | What it answers                 |
+| --------- | --------------------------------------- | ------------------------------- |
+| Discovery | Impressions by channel                  | Did people see it?              |
+| Visit     | Outbound clicks and landing visits      | Did they come to the page?      |
+| Intent    | Qualified inquiries or checkout starts  | Did the offer interest them?    |
+| Sale      | Confirmed paid orders and net receipts  | Did they buy?                   |
+| Repeat    | Repeat purchases or returning customers | Is income becoming sustainable? |
 
 Change one major message at a time and record the date. Clicks are not purchases. No traffic is not evidence that the offer cannot sell.
 
